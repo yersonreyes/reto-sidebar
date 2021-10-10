@@ -1,0 +1,36 @@
+.sidebar{
+    background-color: var(--white);
+    inline-size:  15.5rem;
+    block-size: 100vh;
+    transition: all 400ms cubic-bezier(0.075, 0.82, 0.165, 1) ;
+
+}
+
+.sidebar-header{
+    display: flex;
+    align-items: center;
+    gap: .75rem;
+    padding-left: 1rem;  
+    block-size:4rem ;   
+}
+
+.button{
+    font-size: 1.5rem;
+    cursor: pointer;
+}
+
+.sidebar-logo{
+    display: flex;
+    align-items: center;
+    gap: .5rem;
+}
+
+.sidebar-logo img{
+    inline-size: 1.5rem;
+    block-size: auto;
+}
+
+.sidebar-mini{
+    inline-size:  3.5rem;
+    padding-right: .5rem;
+}

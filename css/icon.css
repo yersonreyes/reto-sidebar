@@ -1,0 +1,102 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?hv15tb');
+  src:  url('../fonts/icomoon.eot?hv15tb#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?hv15tb') format('truetype'),
+    url('../fonts/icomoon.woff?hv15tb') format('woff'),
+    url('../fonts/icomoon.svg?hv15tb#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Property-1archive:before {
+  content: "\e911";
+}
+.icon-Property-1book-open:before {
+  content: "\e912";
+}
+.icon-Property-1clock:before {
+  content: "\e913";
+}
+.icon-Property-1mail:before {
+  content: "\e914";
+}
+.icon-Property-1Menu:before {
+  content: "\e915";
+}
+.icon-Property-1send:before {
+  content: "\e916";
+}
+.icon-Property-1star:before {
+  content: "\e917";
+}
+.icon-Property-1trash-2:before {
+  content: "\e918";
+}
+.icon-calendar:before {
+  content: "\e900";
+}
+.icon-check-square:before {
+  content: "\e901";
+}
+.icon-check:before {
+  content: "\e902";
+}
+.icon-chevron-down:before {
+  content: "\e903";
+}
+.icon-chevron-left:before {
+  content: "\e904";
+}
+.icon-chevron-right:before {
+  content: "\e905";
+}
+.icon-chevron-up:before {
+  content: "\e906";
+}
+.icon-clock:before {
+  content: "\e907";
+}
+.icon-gps:before {
+  content: "\e908";
+}
+.icon-hamburguer-button:before {
+  content: "\e909";
+}
+.icon-help-circle:before {
+  content: "\e90a";
+}
+.icon-plus:before {
+  content: "\e90b";
+}
+.icon-search:before {
+  content: "\e90c";
+}
+.icon-settings:before {
+  content: "\e90d";
+}
+.icon-text:before {
+  content: "\e90e";
+}
+.icon-users:before {
+  content: "\e90f";
+}
+.icon-video:before {
+  content: "\e910";
+}

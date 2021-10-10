@@ -1,0 +1,23 @@
+@import './icon.css';
+@import './sidebar.css';
+@import './sidebar-menu.css';
+
+:root {
+  --black: #000000; 
+  --primary: #0f56b3;
+  --blue: #c5dcfa; 
+  --grey-bg: #fbfbfb; 
+  --grey: #787878; 
+  --white: #ffffff;
+  --fontbase: 'Manrope', sans-serif ;
+  --headline1: 700 16px/24px var(--fontbase); 
+  --headline2: 800 10px/15.8px var(--fontbase); 
+}
+
+body {
+  margin: 0;
+  color: var(--black);
+  background-color: var(--primary);
+  font: var(--headline1);
+}
+
